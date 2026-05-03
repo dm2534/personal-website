@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Personal Portfolio - GCP Solution Architect & AI Engineer",
-  description: "Portfolio and blog of a GCP Solution Architect & AI Engineer specializing in scalable infrastructure and enterprise AI models.",
+  title: "AI & GCP Architecture Portfolio",
+  description: "Professional portfolio and blog of a GCP Solution Architect & AI Engineer specializing in scalable infrastructure and enterprise AI models.",
 };
 
 export default function RootLayout({
